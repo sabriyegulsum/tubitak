@@ -1,3 +1,4 @@
+//kesir sorusu
 #include<stdio.h>
 int number( int x)
 {
